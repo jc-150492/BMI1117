@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>BMI</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.jc21..BMI</string>
+	<string>jp.jc21.BMI</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
